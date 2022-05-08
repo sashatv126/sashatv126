@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sasha</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IOS Developer 🇷</h3>
+<h3 align="center">IOS Developer </h3>
 <!--
 **sashatv126/sashatv126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
