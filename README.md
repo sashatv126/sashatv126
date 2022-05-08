@@ -3,6 +3,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashatv126)](https://github.com/sashatv126/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sashatv126)](https://git.io/streak-stats)
 <!--
 
 **sashatv126/sashatv126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
